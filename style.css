@@ -29,7 +29,7 @@ header #cover{
     justify-content: center;
     align-items: flex-end;
     color: aliceblue;
-    background-image: url(/images/cover/nasa-Q1p7bh3SHj8-unsplash.jpg);
+    background-image: url(images/cover/nasa-Q1p7bh3SHj8-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     
